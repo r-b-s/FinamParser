@@ -1,2 +1,2 @@
 # FinamParser
-How to get required uri: FinamExportURI.png
+How to get required url: FinamExportURI.png
