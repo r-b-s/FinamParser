@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinamParser", "FinamParser.csproj", "{4378149F-501A-4C7C-8825-99ED14FC4976}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinamParserTest", "..\FinamParserTest\FinamParserTest.csproj", "{BD248EAE-FE74-429A-8E8C-D068AE9C4D06}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinamParserTest", "FinamParserTest\FinamParserTest.csproj", "{BD248EAE-FE74-429A-8E8C-D068AE9C4D06}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
